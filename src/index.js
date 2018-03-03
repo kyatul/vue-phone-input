@@ -1,5 +1,5 @@
 import VuePhoneInput from './VuePhoneInput/index.vue';
-import './style.less';
+import './style.css';
 
 export default VuePhoneInput;
 
