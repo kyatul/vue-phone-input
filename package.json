@@ -2,7 +2,7 @@
   "name": "vue-phone-input",
   "version": "1.0.1",
   "description": "Vue component for entering and validating international telephone numbers",
-  "main": "lib/index.js",
+  "main": "src/index.js",
   "scripts": {
     "build-dev": "cross-env NODE_ENV=development webpack",
     "build": "cross-env NODE_ENV=production webpack -p"
